@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/action_bar_title"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+        android:text="@string/app_name"
+        android:gravity="start"
+        android:maxLines="1"
+        />
+
+    <TextView
+        android:id="@+id/action_bar_info"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+        android:text="@string/app_name"
+        android:gravity="end"
+        android:maxLines="1"
+        />
+
+
+
+</android.support>

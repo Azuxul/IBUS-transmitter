@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575105985114",
+    "firebase_url": "https://ibus-tx.firebaseio.com",
+    "project_id": "ibus-tx",
+    "storage_bucket": "ibus-tx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575105985114:android:c366edb48b17fcae",
+        "android_client_info": {
+          "package_name": "fr.azuxul.ibustransmitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575105985114-4naabp07s6kmq87tqb2et3ghg83foji9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4luJjSGNVsv3ZNALAgvDzs10HGor3BNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575105985114-4naabp07s6kmq87tqb2et3ghg83foji9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">IBUS transmitter</string>
+    <string name="arm">ARM</string>
+    <string name="armed">ARMED</string>
+    <string name="rssi" translatable="false">RSSI : %d</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_reconnect">Connect</string>
+    <string name="action_licenses">Open source licenses</string>
+    <string name="action_help">Help</string>
+    <string name="info_text">Use this app as your own risk, sommes issues can appears with sommes devices and apps rungings in background.\nI\'m not responsable for any damage to your equipments.</string>
+    <string name="agree_button">I agree</string>
+    <string name="not_show">Don\'t show again</string>
+    <string name="reconnect_toast">Reconnect</string>
+    <string name="help_img_1_desc">ESP8266 recommended receiver</string>
+    <string name="help_step_3">After your connected the receiver, you can setup your associted device to read IBUS protocol form the receiver.\n\nNow your ready to use the app !</string>
+    <string name="help_step_2">Now connect your device to the receiver in the WiFi tab. The WiFi device name is usually IBUS Transmitter.</string>
+    <string name="help_step_1">You need a working IBUS compatible receiver. If you dosen\'t have one, you can make your own reciver from an ESP8266 by following this gide.\n(&lt;a href="https://azuxul.fr/">Setup a reciver form an ESP8266&lt;/a>)</string>
+
+
+    <!-- Preference Titles -->
+    <string name="stick_header">Stick settings</string>
+    <string name="transmission_header">Transmission settings</string>
+    <string name="app_header">Application settings</string>
+
+    <!-- Messages Preferences -->
+    <string name="stick_mode">Stick mode</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="rssi_title">Enable RSSI telemetry</string>
+    <string name="rssi_summary_on">RSSI telemetry on channel 8</string>
+
+    <string name="info_show">Show warning message at start</string>
+
+</resources>
